@@ -25,4 +25,6 @@ There is one way to run the model:
 1.	Conduct a single model run using Model_EASY.py directly. This only works for a single parameter constellation.
 
 # Comments
+We suggest to run the model in python 4.0.
+
 In case you have questions, feedback or other comments feel free to contact Laura and Sarah here: laura.porak@jku.at
